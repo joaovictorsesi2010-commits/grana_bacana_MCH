@@ -1,0 +1,18 @@
+{
+	"versao": 1,
+	"arquivos": {
+		"main.py": {
+			"digitado": 5797,
+			"recebidoAssinado": 0,
+			"quarentena": 0,
+			"liberadoProfessor": 0
+		},
+		"Templates/cadastro.html": {
+			"digitado": 7378,
+			"recebidoAssinado": 0,
+			"quarentena": 0,
+			"liberadoProfessor": 0
+		}
+	},
+	"eventos": []
+}
